@@ -10,7 +10,7 @@ This project consists in using the files `dados.pl` and `keywords.pl`that contai
 
 Then, we are asked for something completely different, which is to organize eight people on a table:
  
-<img src="table.jpg" alt="Table Representation" width="350"/>
+<img src="tablerep.jpg" alt="Table Representation" width="350"/>
 
 (Image Reference: https://cadblockdwg.com/product/conference-table-and-chair-8-seater-2d-top-view-plan/)
 
