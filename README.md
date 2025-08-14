@@ -12,7 +12,7 @@ Then, we are asked for something completely different, which is to organize eigh
  
 | |
 |:--:|
-| ![Table Representation](table.jpg) |
+| <img src="table.jpg" alt="Description" width="350"/> |
 
 (Image Reference: https://cadblockdwg.com/product/conference-table-and-chair-8-seater-2d-top-view-plan/)
 
