@@ -10,9 +10,9 @@ This project consists in using the files `dados.pl` and `keywords.pl`that contai
 
 Then, we are asked for something completely different, which is to organize eight people on a table:
  
-<div style="text-align: center;">
-  <img src="table.jpg" alt="Table Representation" width="350">
-</div>
+| |
+|:--:|
+| ![Table Representation](table.jpg) |
 
 (Image Reference: https://cadblockdwg.com/product/conference-table-and-chair-8-seater-2d-top-view-plan/)
 
@@ -24,3 +24,5 @@ However, some rules are given:
 - `cab1(a)`, a sits on the left side,
 - `cab2(a)`, a sits on the right side,
 - `honra(a, b)`, b sits on the right side of a.
+
+Note: This is an academic project. The idea of the project came from Albert Abad (Instituto Superior Técnico, Lisbon, Portugal)
