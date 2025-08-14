@@ -9,9 +9,12 @@ This project consists in using the files `dados.pl` and `keywords.pl`that contai
  - The percentage of occupation on a specific room and day (`ocupacaoCritica(a, b, threshold, output)`).
 
 Then, we are asked for something completely different, which is to organize eight people on a table.
- _____ _____ _____
-|                 |
- _____ _____ _____  
+ 
+<br>
+<img height=700 src='table.jpg'>
+<br>
+
+(Image Reference: <a>href='https://cadblockdwg.com/product/conference-table-and-chair-8-seater-2d-top-view-plan/</a>)
 
 However, some rules are given:
 - `lado(a, b)`, a and b are sitting side by side,
