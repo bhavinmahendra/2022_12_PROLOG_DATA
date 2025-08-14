@@ -23,4 +23,4 @@ However, some rules are given:
 - `cab2(a)`, a sits on the right side,
 - `honra(a, b)`, b sits on the right side of a.
 
-Note: This is an academic project. The idea of the project came from Albert Abad (Instituto Superior Técnico, Lisbon, Portugal)
+Note: This is an academic project. The idea of the project came from Ana Paiva (Instituto Superior Técnico, Lisbon, Portugal)
